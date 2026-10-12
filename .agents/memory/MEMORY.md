@@ -1,0 +1,1 @@
+- [Gemini chat](gemini-chat.md) — This app uses the user's own Gemini API key; model availability can vary by key and temporary load, so confirm with a safe live request.
